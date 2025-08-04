@@ -61,5 +61,5 @@ This project is licensed under the MIT License.
 
 If you use this code in your research, please cite:
 
-> Tibet & Ojekemi. “An Enhanced Sine Cosine Algorithm Based Light Gradient Boosting Machine for Occupation Injury Outcome Prediction” *Discover Computing*, 2025.
+> Tibetan & Ojekemi. “An Enhanced Sine Cosine Algorithm Based Light Gradient Boosting Machine for Occupation Injury Outcome Prediction” *Discover Computing*, 2025.
 
