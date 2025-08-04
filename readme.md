@@ -13,7 +13,6 @@ This repository the implementation of the Enhanced Sine Cosine Algorithm (ESCA) 
 ├── store.py            # CSV logging utility (`ESCA.csv`)
 ├── main.py             # Entry point: K‑fold, scaling, runs ESCA + LightGBM
 ├── requirements.txt    # Pin versions for reproducibility
-├── Data.xlsx           # Input dataset (place in root)
 ├── ESCA.csv            # Output of convergence + results (auto‑created)
 └── README.md           # This documentation
 
@@ -62,5 +61,5 @@ This project is licensed under the MIT License.
 
 If you use this code in your research, please cite:
 
-> Tibet & Ojekemi. “An Enhanced Sine Cosine Algorithm Based Light Gradient Boosting Machine for Occupation Injury Outcome Prediction” *Discover Computing*, 2025.
+> Tibetan & Ojekemi. “An Enhanced Sine Cosine Algorithm Based Light Gradient Boosting Machine for Occupation Injury Outcome Prediction” *Discover Computing*, 2025.
 
